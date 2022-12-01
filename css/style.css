@@ -1,0 +1,62 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    overflow-x: hidden;
+    background-color:rgb(231, 192, 158)
+  }
+  
+
+  .logo{
+    margin: 10px 36px 10px 57px;
+  }
+  .header{
+    display: block;
+    margin: 10px 60px 12px 60px;
+  }
+  
+  img{
+    float: left;
+    margin: 0 10px 0 0;
+  }
+  
+  li{
+    color: rgb(70, 30, 13); 
+    padding: 1px; 
+    list-style-type:disc
+  }
+
+  .container{
+    margin: 10px 60px 10px 60px;
+    padding: 0 auto;
+  }
+  
+  #aboutdog {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center 
+  }
+  
+  #history {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center 
+  }
+  p{
+    font-style: italic;
+  }
+  
+  a{
+    color: rgb(68, 27, 16);
+  }
+  a:hover{
+    color:brown;
+  
+  }
+  .footer{
+    margin: 0 60px 0 60px;
+    padding: 0 10px 0 10px;
+  }
+
+  .h1{
+    text-align: center;
+  }
